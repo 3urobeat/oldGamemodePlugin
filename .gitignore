@@ -10,5 +10,8 @@ Thumbs.db
 
 # Package Files #
 *.jar
+/bin/*
+
+# Misc
 .project
 .classpath
