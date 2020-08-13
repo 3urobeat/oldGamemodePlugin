@@ -10,10 +10,10 @@ Download the .jar: https://github.com/HerrEurobeat/oldGamemodePlugin/releases/la
 Type `/gm` or `/gamemode` in the chat to see all options in the auto completion.  
 
 <div>
-  <img align="left" width=45% height:auto src="https://raw.githubusercontent.com/HerrEurobeat/oldGamemodePlugin/master/.github/img/demo2.png">  
+  <img width=45% height:auto src="https://raw.githubusercontent.com/HerrEurobeat/oldGamemodePlugin/master/.github/img/demo2.png">  
   <img align="right" width=45% height:auto src="https://raw.githubusercontent.com/HerrEurobeat/oldGamemodePlugin/master/.github/img/demo1.png">  
 </div>
-
+  
 ## Versions:
 
 Currently known supported Minecraft versions:  
