@@ -41,7 +41,12 @@ public class Main extends JavaPlugin {
 			Player targetplayer = p;
 			
 			if (args.length == 2) { //a player name was provided
-				targetplayer = (Player) Bukkit.getPlayer(args[1]);
+				if (Bukkit.getPlayer(args[1]) != null) { //check if provided player name is online, otherwise it will throw an error
+					targetplayer = (Player) Bukkit.getPlayer(args[1]);
+				} else {
+					p.sendMessage("That player doesn't seem to be online!");
+					return true; //stop further execution
+				}
 			}
 			
 			switch (args[0]) { //get message and work with it
