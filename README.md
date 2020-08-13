@@ -1,2 +1,18 @@
 # oldGamemode-Plugin
- A Minecraft plugin to change gamemodes the classic way (Spigot 1.16)
+
+This super cool plugin for Spigot and Bukkit server allows you to use the `/gamemode` command the old and cool way!  
+
+Download the .jar: https://github.com/HerrEurobeat/oldGamemodePlugin/releases/latest  
+...and put it into the `plugins` folder of your Spigot/Bukkit server. **Done!**  
+
+## Usage
+
+Type `/gm` or `/gamemode` in the chat to see all options in the auto completion.  
+
+<img align="left" width=45% height:auto src="https://raw.githubusercontent.com/HerrEurobeat/oldGamemodePlugin/master/.github/img/demo2.png"> 
+<img align="right" width=45% height:auto src="https://raw.githubusercontent.com/HerrEurobeat/oldGamemodePlugin/master/.github/img/demo1.png"> 
+
+## Versions:
+
+Currently known supported Minecraft versions:  
+`1.16.1`
