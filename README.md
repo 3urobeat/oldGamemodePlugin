@@ -17,4 +17,4 @@ Type `/gm` or `/gamemode` in the chat to see all options in the auto completion.
 ## Versions:
 
 Currently known supported Minecraft versions:  
-`1.16.1`
+`1.8.* - 1.16.*`
