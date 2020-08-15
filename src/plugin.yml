@@ -5,6 +5,8 @@ main: org.herreurobeat.oldGamemode.Main
 description: Use the old number system to change your gamemode!
 
 commands:
+  oginfo:
+    description: What's this? (Help)
   gamemode:
     description: Change your gamemode.
   gm:

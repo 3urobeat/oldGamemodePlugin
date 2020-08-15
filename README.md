@@ -18,3 +18,6 @@ Type `/gm` or `/gamemode` in the chat to see all options in the auto completion.
 
 Currently known supported Minecraft versions:  
 `1.8.* - 1.16.*`
+
+## ToDo:
+- Allow @p, @a, @r as player argument
