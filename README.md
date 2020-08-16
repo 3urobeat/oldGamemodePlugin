@@ -1,7 +1,10 @@
 # oldGamemode-Plugin
 
-This super cool plugin for Spigot and Bukkit server allows you to use the `/gamemode` command the old and cool way!  
-
+This super cool and lightweight plugin for Spigot and Bukkit servers allows you to use the `/gamemode` command the old and cool way!  
+  
+This plugin is designed to replicate the exact behaviour of the vanilla command but also allowing the usage of the old numeric game modes and the shorter `/gm` command.  
+(With the limitation that only English is supported)
+  
 Download the .jar: https://github.com/HerrEurobeat/oldGamemodePlugin/releases/latest  
 ...and put it into the `plugins` folder of your Spigot/Bukkit server. **Done!**  
 
@@ -18,6 +21,3 @@ Type `/gm` or `/gamemode` in the chat to see all options in the auto completion.
 
 Currently known supported Minecraft versions:  
 `1.8.* - 1.16.*`
-
-## ToDo:
-- Allow @p, @a, @r as player argument
