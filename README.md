@@ -19,5 +19,4 @@ Type `/gm` or `/gamemode` in the chat to see all options in the auto completion.
   
 ## Versions:
 
-Currently known supported Minecraft versions:  
-`1.8.* - 1.16.*`
+This plugin was tested on 1.16.x & 1.18 but should also work on other versions.
