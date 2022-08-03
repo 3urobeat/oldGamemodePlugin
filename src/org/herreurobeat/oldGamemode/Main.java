@@ -14,7 +14,7 @@ import org.bukkit.entity.Player;
 
 public class Main extends JavaPlugin {
 	
-	String supportedversion = "1.16";
+	String supportedversion = "1.16 - 1.19";
 	String pluginversion = "1.2";
 	List<String> targetselectors = Arrays.asList("@a", "@e", "@p", "@r", "@s");
 	
@@ -180,7 +180,7 @@ public class Main extends JavaPlugin {
 	
 						if (sendername.equals("@") && !player.getWorld().getGameRuleValue(GameRule.COMMAND_BLOCK_OUTPUT)) return;
 							
-						player.sendMessage("ง7งo[" + sendername + ": Set " + thisplayer.getName() + "'s game mode to " + gamemodestr + " Mode]"); //send the grey and italic message
+						player.sendMessage("ยง7ยงo[" + sendername + ": Set " + thisplayer.getName() + "'s game mode to " + gamemodestr + " Mode]"); //send the grey and italic message
 					}
 				}
 			}

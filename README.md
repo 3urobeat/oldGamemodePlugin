@@ -19,4 +19,4 @@ Type `/gm` or `/gamemode` in the chat to see all options in the auto completion.
   
 ## Versions:
 
-This plugin was tested on 1.16.x & 1.18 but should also work on other versions.
+This plugin was tested on 1.16 - 1.19 but should also work on other versions.

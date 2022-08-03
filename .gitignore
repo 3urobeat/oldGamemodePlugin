@@ -11,7 +11,10 @@ Thumbs.db
 # Package Files #
 *.jar
 /bin/*
+out/
 
 # Misc
 .project
 .classpath
+oldGamemodePlugin.iml
+.idea/
