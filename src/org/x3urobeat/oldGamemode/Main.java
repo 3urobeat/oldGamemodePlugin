@@ -1,4 +1,4 @@
-package org.herreurobeat.oldGamemode;
+package org.x3urobeat.oldGamemode;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
@@ -14,7 +14,7 @@ import org.bukkit.entity.Player;
 
 public class Main extends JavaPlugin {
 	
-	String supportedversion = "1.16 - 1.19";
+	String supportedversion = "1.16 - 1.20";
 	String pluginversion = "1.2";
 	List<String> targetselectors = Arrays.asList("@a", "@e", "@p", "@r", "@s");
 	
@@ -49,7 +49,7 @@ public class Main extends JavaPlugin {
 			Player p = (Player) sender; //convert to player
 			if(!p.getWorld().getGameRuleValue(GameRule.SEND_COMMAND_FEEDBACK)) return; //check gamerule and stop if send command feedback is false
 		}
-		sender.sendMessage("oldGamemodePlugin by 3urobeat v" + pluginversion + " \n----\nType /gm or /gamemode and use the argument 0, 1, 2 or 3 to change your gamemode the old way.\n\nUse survival, creative, adventure or spectator as an argument to change your gamemode the new and default way.\n----\nhttps://github.com/HerrEurobeat/oldGamemodePlugin");
+		sender.sendMessage("oldGamemodePlugin by 3urobeat v" + pluginversion + " \n----\nType /gm or /gamemode and use the argument 0, 1, 2 or 3 to change your gamemode the old way.\n\nUse survival, creative, adventure or spectator as an argument to change your gamemode the new and default way.\n----\nhttps://github.com/3urobeat/oldGamemodePlugin");
 	}
 	
 	//Handle gamemode command code

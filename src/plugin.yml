@@ -1,7 +1,7 @@
 name: oldGamemode
 version: 1.2
 author: 3urobeat
-main: org.herreurobeat.oldGamemode.Main
+main: org.x3urobeat.oldGamemode.Main
 description: Use the old number system to change your gamemode!
 
 commands:
